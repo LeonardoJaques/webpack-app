@@ -1,1 +1,1 @@
-importgit 'bootstrap';
+import 'bootstrap';
